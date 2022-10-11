@@ -1,0 +1,474 @@
+{
+  "settings": {
+    "site": "BGW Technologies",
+    "return": "bgwt.com.au",
+    "url": "https://www.bgwt.com.au/",
+    "storeFinderUrl": "https://www.bgwt.com.au/store-finder"
+  },
+  "content": {
+    "categories": [
+      {
+        "id": 0,
+        "category": "access",
+        "title": "Access Your Account",
+        "text": "Forgot your password? Learn how to access your BGW Technologies account.",
+        "svg": "login.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "general",
+            "title": "General",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "category": "accounts",
+        "title": "Manage Your Account",
+        "text": "Learn how to manage your BGW Technologies Account online with ease.",
+        "svg": "accounts.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "paying-account",
+            "title": "Paying Your Account & Viewing Invoices",
+            "text": ""
+          },
+          {
+            "id": 1,
+            "category": "my-statements",
+            "title": "Account Statements",
+            "text": ""
+          },
+          {
+            "id": 2,
+            "category": "my-quotes",
+            "title": "How to Manage Your Quotes",
+            "text": ""
+          },
+          {
+            "id": 3,
+            "category": "my-pricefile",
+            "title": "Managing Your Price File",
+            "text": ""
+          },
+          {
+            "id": 4,
+            "category": "my-favourites",
+            "title": "Managing Your Favourites & Take Off Lists",
+            "text": ""
+          },
+          {
+            "id": 5,
+            "category": "my-company",
+            "title": "Manage My Company",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "faq",
+        "title": "FAQ's",
+        "text": "Popular questions and their exact answer, right here!",
+        "svg": "faqs.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "general",
+            "title": "General",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "orders",
+        "title": "How To Order Online",
+        "text": "It's easy as 1, 2, 3! Help on how to place an order online.",
+        "svg": "orders.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "general",
+            "title": "General",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "register",
+        "title": "Open An Account",
+        "text": "Click here to learn how to open an account with BGW Technologies.",
+        "svg": "edit.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "general",
+            "title": "General",
+            "text": ""
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "contact",
+        "title": "Contact Us",
+        "text": "We are the Service Leaders for a reason. Contact Team BGW Technologies today.",
+        "svg": "phone-call-incoming.svg",
+        "color": "#ec1506",
+        "subcategories": [
+          {
+            "id": 0,
+            "category": "general",
+            "title": "General",
+            "text": ""
+          }
+        ]
+      }
+    ],
+
+    "articles": [
+      {
+        "id": 0,
+        "categoryId": 0,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "login-to-new-online-account",
+        "question": "How do I log in to my new Online Account?",
+        "html": "<p>When logging in for the first time on your online account, it's simple!</p><h2>If via a Desktop:</h2><ol><li>Go to the BGW Technologies website via <a href='https://www.bgwt.com.au/'>www.bgwt.com.au</a> and navigate to the top right hand corner of the screen select LOGIN.</li><li>Enter your credentials then click on Sign In.</li></ol><p>Note: If you do not know your online login credentials please reach out to your home branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p><hr><h2>If via a Mobile Device or The App:</h2><ol><li>Go to the BGW Technologies website via <a href='https://www.bgwt.com.au/'>www.bgwt.com.au</a> and navigate to the top left hand corner of the screen select the menu button &Xi;</li><li>Select Login.</li><li>Enter your credentials then click on Sign In.</li><li>Remember to select 'Remember Me' for easy access!</li></ol><p>Note: If you do not know your online login credentials please reach out to your home branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "When logging in for the first time on your online account, it's simple!",
+        "updated": "20 September 2022",
+        "relatedArticles": [1, 2]
+      },
+      {
+        "id": 1,
+        "categoryId": 0,
+        "subcategoryId": 0,
+        "featured": true,
+        "url": "how-do-i-change-my-password",
+        "question": "How do I change my password?",
+        "html": "<p>You will be provided a password for your new online account when you first open a BGW Technologies Account. However to ensure your account is completely secure, you should change your password as soon as possible to something unique, that only you would know.</p><p>Complete the following steps to change your password:</p><ol><li>Once you are Logged in, navigate to your online account. ie. Top right hand corner on desktop, top left hand corner on mobile or bottom right hand corner on the app.</li><li>Click Account Settings. ie. 2nd from the bottom on the left hand side menu on desktop, and 2nd from the bottom via the drop down on a mobile device.</li><li>Select Change Password.</li><li>Follow the prompts and click Update Password.</li></ol>",
+        "blurb": "You will be provided a password for your new online account when you first open a BGW Technologies Account.",
+        "updated": "20 September 2022",
+        "relatedArticles": [0, 2]
+      },
+      {
+        "id": 2,
+        "categoryId": 0,
+        "subcategoryId": 0,
+        "featured": true,
+        "url": "how-do-i-reset-my-password",
+        "question": "How do I reset my password?",
+        "html": "<p>How do I log in to my online account if I cannot remember my password?</p><ol><li>Proceed to Log in as you would normally. Unsure on where to login? See section How do I Login to my Online Account.</li><li>Click on Reset Password.</li><li>Enter the primary email address registered on the account and click Send.</li><li>Open the email sent to the primary email address and click on the link to reset your password.</li><li>Enter your new password and confirm.</li><li>If you are still having troubles logging in, please reach out to <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></li></ol>",
+        "blurb": "How do I log in to my online account if I cannot remember my password?",
+        "updated": "20 September 2022",
+        "relatedArticles": [0, 1]
+      },
+      {
+        "id": 3,
+        "categoryId": 1,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "search-view-pay-outstanding-invoices",
+        "question": "How do I search, view and pay for outstanding invoices?",
+        "html": "<p>You now have the ability to search, view and pay your invoices online.&nbsp; Any outstanding invoices will show the outstanding dollar value.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Invoices located on the top left hand side of the dashboard, or drop down menu on mobile.</li><li>Enter your date range or order number and click the search button. You can also send copies of emails to a preferred email address.&nbsp; Enter the email address and click send.</li><li>To make a payment select the invoice/s and click on &lsquo;Make a Payment&rsquo;.</li></ol>",
+        "blurb": "You now have the ability to search, view and pay your invoices online.&nbsp; Any outstanding invoices will show the outstanding dollar value.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 4,
+        "categoryId": 1,
+        "subcategoryId": 0,
+        "featured": true,
+        "url": "add-card-payment",
+        "question": "How do I add a card for payment?",
+        "html": "<ol><li>Navigate to your My Account and login if required.</li><li>Click on Account Settings located on the top left hand side of the dashboard, or drop down menu on mobile.</li><li>Click Manage Payments.</li><li>Select Add Card and follow the prompts to save the card to the account.</li></ol>",
+        "blurb": "Navigate to your My Account and login if required. Click on Account Settings located on the top left..",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 5,
+        "categoryId": 1,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "view-historical-invoices",
+        "question": "How do I view Historical Invoices?",
+        "html": "<ol><li>Navigate to your My Account and login if required.</li><li>Click on Invoices located on the top left hand side of the dashboard, or drop down menu on mobile.</li><li>Click on Invoice History.</li><li>Enter your date range or order number and click the search button. You can also send copies of emails to a preferred email address.&nbsp; Enter the email address and click send.</li></ol>",
+        "blurb": "Click on Account Settings located on the top left hand side of the dashboard, or drop down menu on mobile.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 6,
+        "categoryId": 1,
+        "subcategoryId": 1,
+        "featured": false,
+        "url": "view-statements",
+        "question": "How do I view my Account Statements?",
+        "html": "<p>You can access your full order history including invoices and statements via your online account.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Statements located on the top left hand side of the dashboard, or drop down menu on mobile.</li><li>Under Email Historical Statements, enter your date range and details accordingly and click send.</li></ol>",
+        "blurb": "You can access your full order history including invoices and statements via your online account.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 7,
+        "categoryId": 1,
+        "subcategoryId": 2,
+        "featured": true,
+        "url": "search-view-quote-history",
+        "question": "How do I search and view my quote history?",
+        "html": "<p>You now have the ability to search and view your quote history by following the easy steps below.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Quotes, then Quote History via the left hand side of the dashboard, or drop down menu on mobile.</li><li>You can also enter your quote number in the &lsquo;Search Quote ID&rsquo; field to search for a particular quote</li></ol>",
+        "blurb": "You now have the ability to search and view your quote history by following the easy steps below.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 8,
+        "categoryId": 1,
+        "subcategoryId": 3,
+        "featured": false,
+        "url": "request-pricefile",
+        "question": "How do I Request a Price File?",
+        "html": "<p>Price files can be requested directly via your online account. Once requested, your price file will be automatically generated and emailed to your specified email address at COB the day you request it.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Quotes, then Price File via the left hand side of the dashboard, or drop down menu on mobile.</li><li>Enter your branch, choose your file format and the amount of products you would like included in the price file. Select request price file.</li></ol>",
+        "blurb": "Price files can be requested directly via your online account. Once requested, your price file will be automatically generated and emailed to your specified email address at COB the day you request it.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 9,
+        "categoryId": 1,
+        "subcategoryId": 3,
+        "featured": false,
+        "url": "cloud-integration",
+        "question": "How do I use Cloud Integration/Integration Hub?",
+        "html": "<p>Work smarter with BGW Technologies by integrating with your management software. We have partnered with multiple systems such as MYOB, simPRO, Link4, Quickbooks, Tradify, Xero, and more so you never have to worry about outdated invoices and or price files again.&nbsp; Get time back in your day and stay ahead of the game, without needing to handle hours of tedious admin. Simply click on the link below to get started.</p><p><a href='https://www.bgwt.com.au/erp-integration'>https://www.bgwt.com.au/erp-integration</a></p><p>Can't see your management software listed? Simply contact <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "Work smarter with BGW Technologies by integrating with your management software.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 10,
+        "categoryId": 1,
+        "subcategoryId": 4,
+        "featured": true,
+        "url": "setup-favourites-list",
+        "question": "How do I set up a favourites list?",
+        "html": "<p>Do you have a list of products you are constantly ordering? Your Favourite Products can now be saved into a Favourites List to help manage your product orders more effectively. This can be done in multiple ways.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Favourites via the left hand side of the dashboard, or drop down menu on mobile.</li><li>Click on &lsquo;Add list&rsquo; then tick &lsquo;Favourite&rsquo; and click create or,</li><li>Click on &lsquo;Import CSV&rsquo; to import your list with ease.</li></ol><p>Need help creating your first list? Please speak to your local branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "Do you have a list of products you are constantly ordering? Your Favourite Products can now be saved into a Favourites List to help manage your product orders more effectively.",
+        "updated": "20 September 2022",
+        "relatedArticles": [11]
+      },
+      {
+        "id": 11,
+        "categoryId": 1,
+        "subcategoryId": 4,
+        "featured": false,
+        "url": "setup-takeoff-list",
+        "question": "How do I set up a Take Off list?",
+        "html": "<p>A Take-Off list is similar to that of a Favourites list, however this function will allows you to set a specific quantity limit for each product.</p><ol><li>Navigate to your My Account and login if required.</li><li>Click on Favourites via the left hand side of the dashboard, or drop down menu on mobile.</li><li>Then click the second tab Take Off Lists.</li><li>Click on &lsquo;Add list&rsquo; then tick &lsquo;Favourite&rsquo; and click create or,</li><li>Click on &lsquo;Import CSV&rsquo; to import your list with ease.</li></ol><p>Need help creating your first list? Please speak to your local branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "A Take-Off list is similar to that of a Favourites list, however this function will allows you to set a specific quantity limit for each product.",
+        "updated": "20 September 2022",
+        "relatedArticles": [10]
+      },
+      {
+        "id": 12,
+        "categoryId": 3,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "how-to-order-online",
+        "question": "How do I Place an Order Online?",
+        "html": "<ol><li>Login to your BGW Technologies online account.</li><li>Search for your products.</li><li>Click on Add to Cart, for each item you wish to purchase, along with the desired qty.</li><li>Once all required products are in the cart, select cart in the tip right hand corner, or the large red cart button centre at the bottom of your mobile device if using the App.</li><li>Review your order. Click Checkout.</li><li>Assign your cost centre from the drop down menu. For those with the one cost centre, simply select the one that is present.</li><li>Choose from delivery or store pickup. If delivery,either select from a saved address or add a new address.</li><li>Enter a Purchase Order Number, preferred date of pick up or delivery, add any additional comments (ie. Please ring the doorbell when dropping off the order).</li><li>Select Place Order</li></ol>",
+        "blurb": "Once all required products are in the cart, select cart in the tip right hand corner, or the large red cart button centre at the bottom of your mobile device if using the App.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 13,
+        "categoryId": 3,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "search-for-a-product",
+        "question": "How do I search for a product?",
+        "html": "<p>You can search for a product via searching keywords, supplier or part/product number in the top search bar.</p><ol><li>Key in your product description and click the search button.</li><li>You can also browse through the category or brand menu by simply selecting Shop by Category or shop by Brand at the top of the screen, or via the menu on mobile.</li><li>Select accordingly.</li></ol>",
+        "blurb": "You can search for a product via searching keywords, supplier or part/product number in the top search bar.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 14,
+        "categoryId": 3,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "how-to-reorder",
+        "question": "How do I re-order?",
+        "html": "<p>Re-ordering items from a previous invoice has been made easy, by following the steps below:</p><ol><li>Once logged into your BGW Technologies account select My Account.</li><li>Go to Orders and then select Order History from the drop down menu.</li><li>Click on the invoice that you wish to reorder.</li><li>Select Reorder from the top of the screen.</li><li>The good will now be in your cart, simply proceed to checkout.</li></ol>",
+        "blurb": "Re-ordering items from a previous invoice has been made easy, by following the steps below:",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 15,
+        "categoryId": 3,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "access-entire-catalogue-search",
+        "question": "How do I access the entire catalogue search?",
+        "html": "<p>There are two ways to access the entire catalogue search.</p><p><strong>Option 1:&nbsp; From the &lsquo;No Results&rsquo; search page</strong></p><ol><li>If you searched for a particular product and it does not appear in the product search, the option to search the entire catalogue will appear in the &rsquo;no results&rsquo; search page.</li><li>Simply click &lsquo;search entire catalogue&rsquo; and input the BGW Technologies or Supplier product code</li><li>Click the search button</li></ol><p><strong>Option 2:&nbsp; From the &lsquo;Category Page&rsquo;</strong></p><ol><li>If you searched for a particular product and the result was not satisfactory, simply scroll to the bottom of the website and access the &lsquo;entire catalogue&rsquo; search page.&nbsp;</li><li>Then simply input the BGW Technologies or Supplier product code and click search</li></ol>",
+        "blurb": "If you searched for a particular product and it does not appear in the product search, the option to search the entire catalogue will appear in the..",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 16,
+        "categoryId": 3,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "search-view-order-history",
+        "question": "How do I search and view my order history?",
+        "html": "<p>You now have the ability to search and view your order history by following the easy steps below.&nbsp;</p><ol><li>Login to you BGW Technologies online account.</li><li>Select Orders then Order History from the menu on the left hand side of the dashboard, or drop down menu on mobile.</li><li>You can also search by Order Number by entering the order number in the search field and clicking search.</li><li>By selecting a previous order, you also have the ability to Reorder or Add to Favourites.</li></ol>",
+        "blurb": "You now have the ability to search and view your order history by following the easy steps below.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 17,
+        "categoryId": 4,
+        "subcategoryId": 0,
+        "featured": true,
+        "url": "account-application",
+        "question": "Account Application",
+        "html": "<p>In order to begin purchasing online, you will be required to sign up for an account with BGW Technologies Plumbing. Applications for credit accounts are open to organisations and businesses registered within Australia.</p><p>The online application for credit will take roughly 10 minutes to complete, whilst credit applications are processed within two to three business days. You will be contacted with your account details once your approval has been finalised.</p><ol><li>Visit <a href='https://www.bgwt.com.au/bgwt/en/AUD/login/signup?'>Open an Account with BGW Technologies</a></li><li>Follow the prompts to complete the account form.</li></ol>",
+        "blurb": "In order to begin purchasing online, you will be required to sign up for an account with BGW Technologies Plumbing. Applications for credit accounts are open to organisations and businesses registered within Australia.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 18,
+        "categoryId": 4,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "setup-online-account",
+        "question": "How do I set up an Online Account?",
+        "html": "<p>Once your account application has been processed and becomes successful, you will automatically be set up with access to your account online. Once you receive your online account login details via email, simply follow the steps below to log in to your online account.</p><p>Having issues getting set up? Simply chat to your home branch or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "Once your account application has been processed and becomes successful, you will automatically be set up with access to your account online. Once you receive your online account login details via email, simply follow the steps below to log in to your online account.",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 19,
+        "categoryId": 4,
+        "subcategoryId": 0,
+        "featured": false,
+        "url": "login-to-new-online-account2",
+        "question": "How do I log in to my new online account?",
+        "html": "<p>When logging in for the first time on your online account, it's simple!</p><p><strong>If via a Desktop:</strong></p><ol><li>Go to the BGW Technologies website via <a href='https://www.bgwt.com.au/'>www.bgwt.com.au</a> and navigate to the top right hand corner of the screen select LOGIN.</li><li>Enter your credentials then click on Sign In.</li></ol><p>Note: If you do not know your online login credentials please reach out to your home branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p><hr><p><strong>If via a Mobile Device or The App:</strong></p><ol><li>Go to the BGW Technologies website via <a href='https://www.bgwt.com.au/'>www.bgwt.com.au</a> and navigate to the top left hand corner of the screen select the menu button &Xi;</li><li>Select Login.</li><li>Enter your credentials then click on Sign In.</li><li>Remember to select 'Remember Me' for easy access!</li></ol><p>Note: If you do not know your online login credentials please reach out to your home branch, or email <a href='mailto:online.support@bgwgroup.com.au'>online.support@bgwgroup.com.au</a></p>",
+        "blurb": "If via a Desktop: Go to the BGW Technologies website..",
+        "updated": "20 September 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 20,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "create-a-budget",
+        "question": "Create a Budget for your users",
+        "html": "<p>Here you can set limits on the amount that can be spent by your users on the BGW Technologies website during any given period and can be assigned to particular business units as well.</p><ol><li>Navigate to your My Company and log in if required</li><li>Select Manage Budgets via the left-hand side dashboard</li><li>Select Add Budget, fill out the required information and select Save</li></ol>",
+        "blurb": "Here you can set limits on the amount that can be spent by your users on the BGW Technologies website during any given period and can be assigned to particular business units as well.",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 21,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "create-a-cost-centre",
+        "question": "Create a Cost Centre",
+        "html": "<p>A cost centre will need to be registered against any purchase on a credit account when checking out. By creating a budget and attaching it to a cost centre, this will allow you to have control over each department&rsquo;s budget.</p><ol><li>Navigate to your My Company and log in if required</li><li>Select Manage Cost Centres via the left-hand side dashboard</li><li>Select Add Cost Centre, fill out the required information and select save</li></ol>",
+        "blurb": "A cost centre will need to be registered against any purchase on a credit account when checking out.",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 22,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "create-a-business-unit",
+        "question": "Create a Business Unit and Assign users",
+        "html": "<p>These are the groups/departments within your company and can be assigned their own budgets</p><ol><li>Navigate to your My Company and log in if required</li><li>Select Manage Business Units via the left-hand side dashboard</li><li>Select Add Business Units, fill out the required information and select save</li></ol>",
+        "blurb": "These are the groups/departments within your company and can be assigned their own budgets.",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 23,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "create-additional-users",
+        "question": "Create Additional Users for your account",
+        "html": "<p>Easily create additional logins for your employees to access your account. You can also customise the level of access each user has!</p><ol><li>Navigate to your My Company and log in if required</li><li>Select Manage Users via the left-hand side dashboard</li><li>Select Add User, fill out the required information and select Save</li><li>Select Reset Password to set the new user a password</li></ol><p><strong>Please note that the email address entered will become the username</strong></p>",
+        "blurb": "Easily create additional logins for your employees to access your account. You can also customise the level of access each user has!",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 24,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "customise-the-level-of-access",
+        "question": "Customise the level of access each additional user has to your account by assigning user roles",
+        "html": "<p>You have the ability to customise the level of access each of your additional users has to your account. You can do so by assigning user roles and these roles are listed below.&nbsp;</p><ul><li><strong>Administrator</strong>: Has complete control over the BGW Technologies account, can create and manage users and assign cost centres</li><li><strong>Manager</strong>: Has access to &ldquo;My Company&rdquo; and can update user profiles. A manager can also be assigned as an &ldquo;Approver&rdquo;</li><li><strong>Approver</strong>: Has access to &ldquo;My Account&rdquo; permissions, and has the ability to approve any pending orders, and any overspends. Does not have access to &ldquo;My Company&rdquo;</li><li><strong>Customer</strong>: Limited access and can only view the order that has been placed</li><li><strong>Hide Price and place order</strong>: Applicable to &ldquo;Customer&rdquo; level &ndash; Will hide prices from view</li><li><strong>Place Order for Approval</strong>: User is able to place an order however it will not go through until an authorised party has approved the order for purchase</li><li><strong>Approves Customer Cart</strong>: Is an authorised party to approve orders for &ldquo;Place Order for Approval&rdquo; level</li></ul>",
+        "blurb": "You have the ability to customise the level of access each of your additional users has to your account.",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 25,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "create-user-groups",
+        "question": "Create user groups and assign your additional users",
+        "html": "<p>Assigning a User Group gives specific user permissions they would not otherwise have within their business unit (it overrides the usual business unit permissions).</p><p>1. Navigate to your My Company and login if required</p><p>2. Select Manage User groups via the left-hand side dashboard</p><p>3. Select Add User Group, fill out the required information and select save</p>",
+        "blurb": "Assigning a User Group gives specific user permissions they would not otherwise have within their business unit (it overrides the usual business unit permissions).",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      },
+      {
+        "id": 26,
+        "categoryId": 1,
+        "subcategoryId": 5,
+        "featured": false,
+        "url": "assign-spend-permissions",
+        "question": "Assign spend permissions to your users",
+        "html": "<p>There are three types of user permissions created to define the amount a user can spend on your account.</p><p>Those three types are as follows:</p><ul><li>Allowed Order Threshold (per order): Sets a maximum limit a user with this budget can spend in one order</li><li>Allowed Order Threshold: Sets a maximum limit a user with this budget can spend within a certain period</li><li>Budget Exceeded Permission: Gives the user the permission to exceed any budget created.</li></ul><p>Simply follow the below steps to assign these permissions.</p><ol><li>Navigate to your My Company and login if required</li><li>Select Manage Permissions via the left-hand side dashboard</li><li>Select Add Permission, fill out the required information and select save</li></ol>",
+        "blurb": "There are three types of user permissions created to define the amount a user can spend on your account.",
+        "updated": "10 October 2022",
+        "relatedArticles": []
+      }
+    ],
+
+    "downloads": [
+      {
+        "id": 0,
+        "title": "#",
+        "size": "#",
+        "url": "#"
+      }
+    ]
+  }
+}
